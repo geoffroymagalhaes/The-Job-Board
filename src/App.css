@@ -1,0 +1,74 @@
+/* Header */
+
+.header {
+  text-align: center;
+  background-color: #333333;
+}
+
+h1 {
+  color: white;
+  font-size: 40px;
+  padding: 20px;
+}
+/* Main */
+h2 {
+  font-size: 20px;
+}
+p {
+}
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 20px 100px;
+  display: flex;
+  gap: 100px;
+  flex-wrap: wrap;
+}
+.red {
+  border: 5px solid red;
+}
+.green {
+  border: 5px solid green;
+}
+.yellow {
+  border: 5px solid yellow;
+}
+.blue {
+  border: 5px solid blue;
+}
+.brown {
+  border: 5px solid brown;
+}
+.Job {
+  height: 220px;
+  width: 220px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+
+  flex-shrink: 0;
+  padding: 20px;
+}
+
+/* FOOTER */
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 80px 0;
+}
+
+.footer > div {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 15px;
+}
+
+.footer > div > a {
+  text-decoration: inherit;
+  color: inherit;
+  cursor: pointer;
+  font-weight: bold;
+}
