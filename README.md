@@ -1,6 +1,6 @@
 # The-Job-Board
 
-The Job Board is a React introduction project the goal of this project was to praticed splitting a project in a components folder, and to made it responsive.
+The Job Board is a React introduction project the goal of this was to praticed splitting a project in a components folder, and to made it responsive.
 
 ## Screenshot
 
@@ -12,6 +12,8 @@ The Job Board is a React introduction project the goal of this project was to pr
 
 ## Link to the Website
 
+https://geo-job-board.netlify.app
+
 ## Link to my linkedin
 
-www.linkedin.com/in/geoffroy-magalhaes-3345872b5
+https://www.linkedin.com/in/geoffroy-magalhaes-3345872b5
