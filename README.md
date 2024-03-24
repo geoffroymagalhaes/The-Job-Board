@@ -1,6 +1,6 @@
 # The-Job-Board
 
-The Job Board is a React introduction project the goal of this was to praticed splitting a project in a components folder, and to made it responsive.
+The Job Board is a React introduction project the goal of this was to practice splitting a project in a components folder, and making it responsive.
 
 ## Screenshot
 
